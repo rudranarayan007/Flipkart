@@ -1,0 +1,85 @@
+.header{
+    background-color: #2870f0;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+
+   
+ 
+}
+.first{
+    padding-right: -100px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-left: 120px;
+  
+}
+.first > img {
+
+width: 75px;
+object-fit: contain;
+display: flex;
+flex-direction: column;
+align-items: center;
+
+}
+
+.second{
+    display: flex;
+    align-items: center;
+    background-color: white;
+    border-radius: 3px;
+}
+.second > input{
+    border: none;
+    outline: none;
+    width: 36vw;
+    padding: 10px 15px ;
+    border-radius: 3px;
+}
+.second > .MuiSvgIcon-root{
+    color: #2874f0;
+    padding: 5px;
+    font-size: 25px;
+
+}
+.third > button {
+    background-color: white;
+    color: #2870f0;
+    outline: none;
+    border: none;
+    width: 9vw;
+    height: 5vh;
+    cursor: pointer;
+    font-size: 15px;
+    border-radius: 2px;
+    padding: 7px;
+    font-weight: 800;
+
+}
+.fourth {
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+.fourth > span {
+ color: white;
+ font-weight: 700;
+}
+.fifth{
+    color: white;
+    display: flex;
+    font-weight: 700;
+}
+.fifth > .MuiSvgIcon-root{
+    color: white;
+    cursor: pointer;
+}
+.sixth{
+    display: flex;
+    align-items: center;
+    color: white;
+    gap: 5px;
+    font-weight: 700px;
+}

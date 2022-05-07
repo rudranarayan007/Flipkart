@@ -1,0 +1,64 @@
+.categories{
+    align-items: center;
+ justify-content: center;
+    display: flex;
+    gap: 50px;
+padding-top: 20px;
+
+}
+.categories p{
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+    padding-left: 20px;
+    font-weight: 500;
+}
+.Travel {
+    align-items: center;
+    justify-content: center;
+}
+.Travel > img {
+    width: 75px;
+    object-fit: contain;
+   align-items: center
+}
+.Appliances > img {
+    width: 75px;
+    object-fit: contain;
+   
+}
+.Furniture > img {
+    width: 75px;
+    object-fit: contain;
+   
+}
+.Beauty > img {
+    width: 75px;
+    object-fit: contain;
+   
+}
+.Mobile > img {
+    width: 75px;
+    object-fit: contain;
+   
+}
+.Grocery > img {
+    width: 75px;
+    object-fit: contain;
+   
+}
+.Fashion > img {
+    width: 75px;
+    object-fit: contain;
+   
+}
+.Electronics > img {
+    width: 75px;
+    object-fit: contain;
+   
+}
+.Home > img {
+    width: 75px;
+    object-fit: contain;
+   
+}

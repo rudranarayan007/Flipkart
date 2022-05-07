@@ -1,0 +1,166 @@
+.Footer {
+    width: 100%;
+    height: 30vh;
+    background-color: #172337;
+    display: flex;
+    color: white;
+    padding: 30px;
+    font-weight: 300;
+
+    justify-content: space-evenly;
+
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    padding-bottom: 10px;
+    
+}
+.one p span{
+   
+    color: #464a50;
+    font-weight: 600;
+    gap: 10px;
+    
+}
+.one p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    line-height: 2;
+    font-weight: 400;
+}
+.two p span{
+   
+    color: #464a50;
+    font-weight: 600;
+    gap: 10px;
+    
+}
+.two p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    line-height: 2;
+    font-weight: 400;
+}
+
+
+.three p span{
+   
+    color: #464a50;
+    font-weight: 600;
+    gap: 10px;
+    
+}
+.three p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    line-height: 2;
+    font-weight: 400;
+}
+.four p span{
+   
+    color: #464a50;
+    font-weight: 600;
+    gap: 10px;
+    
+}
+.four p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    line-height: 2;
+    font-weight: 400;
+}
+.five p span{
+   
+    color: #464a50;
+    font-weight: 600;
+    gap: 10px;
+    
+}
+.five p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    line-height: 2;
+    font-weight: 400;
+}
+.six p span{
+   
+    color: #464a50;
+    font-weight: 600;
+    gap: 10px;
+    
+}
+.six p{
+    padding-bottom: 10px;
+    font-size: 12px;
+    line-height: 2;
+    font-weight: 400;
+}
+
+.divider{
+    width: 100%;
+    background-color: rgb(95, 95, 95);
+    height: 1px;
+    padding-bottom: -200px;
+    position: absolute;
+    top: 3350px;
+}
+.verticaldivider{
+    margin-top: 30px;
+    height: 150px;
+    background-color: rgb(95, 95, 95);
+    width: 1px;
+}
+.shortcuts{
+    width: 100%;
+    background-color:#172337;
+    height: 10vh;
+    padding-top: 50px;
+   
+    justify-content: space-evenly;
+    display: flex;
+}
+.shortcuts p{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+.work{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+gap: 10px;
+}
+.ad{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+gap: 10px;
+}
+.gift{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+gap: 10px;
+}
+.help{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+gap: 10px;
+}
+.web{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+gap: 10px;
+}
+.creditcard{
+    padding-top: 10px;
+}
