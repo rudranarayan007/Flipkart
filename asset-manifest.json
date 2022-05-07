@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Flipkart/static/css/main.923d8f86.css",
+    "main.js": "/Flipkart/static/js/main.ab91abb2.js",
+    "static/js/787.f669ef33.chunk.js": "/Flipkart/static/js/787.f669ef33.chunk.js",
+    "static/media/car3.jpg": "/Flipkart/static/media/car3.b195e366b9b5ba5c18a0.jpg",
+    "static/media/car5.jpg": "/Flipkart/static/media/car5.7e30830b893c2b07289f.jpg",
+    "static/media/car4.png": "/Flipkart/static/media/car4.168fb90bc098fa799e30.png",
+    "static/media/sbi.png": "/Flipkart/static/media/sbi.ba29b281c5af6fef1338.png",
+    "static/media/car2.jpg": "/Flipkart/static/media/car2.ac1f14de623db51d0752.jpg",
+    "static/media/creditcard.jpg": "/Flipkart/static/media/creditcard.0fd1c9f7e8229c778374.jpg",
+    "static/media/Pen.jpg": "/Flipkart/static/media/Pen.f350e45fe2c969ed6af7.jpg",
+    "static/media/Furniture.png": "/Flipkart/static/media/Furniture.049b509caac41ac75e19.png",
+    "static/media/Fashion.png": "/Flipkart/static/media/Fashion.2c484b2bd850a56f8ea5.png",
+    "static/media/Deo.jpg": "/Flipkart/static/media/Deo.61e35f82f5d9b89d7f40.jpg",
+    "static/media/Home.png": "/Flipkart/static/media/Home.f31abb103a18ffc99490.png",
+    "static/media/Tshirt.jpg": "/Flipkart/static/media/Tshirt.c8d20af4aff88fedbfbb.jpg",
+    "static/media/Grocery.png": "/Flipkart/static/media/Grocery.649af8d1dc97f1f3d34d.png",
+    "static/media/Appliances.png": "/Flipkart/static/media/Appliances.b06f6b5aabd132d6628c.png",
+    "static/media/slick.svg": "/Flipkart/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Flipkart/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Flipkart/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Flipkart/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Flipkart/index.html",
+    "main.923d8f86.css.map": "/Flipkart/static/css/main.923d8f86.css.map",
+    "main.ab91abb2.js.map": "/Flipkart/static/js/main.ab91abb2.js.map",
+    "787.f669ef33.chunk.js.map": "/Flipkart/static/js/787.f669ef33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.923d8f86.css",
+    "static/js/main.ab91abb2.js"
+  ]
+}
